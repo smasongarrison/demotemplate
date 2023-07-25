@@ -3,10 +3,10 @@ title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2023-01-09"
-  thesisdeadline: "2023-01-10"
+  weekonemonday: "2023-07-17"
+  thesisdeadline: "2023-07-19"
   springbreak: "2023-01-10"
-  name: Tukey Cat
+  name: Cat
   labs: 11
   portfolios: 10
   grade:
